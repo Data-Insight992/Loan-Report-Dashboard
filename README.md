@@ -59,3 +59,18 @@ Total Loan Applications             Overall application volume
 
   Good Loan / Bad Loan Funded Amount  Funded amount by loan-quality
                                       classification
+
+
+
+SQL Query
+What is the overall performance of the loan portfolio?
+How many loans have been repaid, remain current, or been charged off?
+Which credit grades have the highest charge-off rates?
+Which loan purposes contribute the most to lending and charge-offs?
+Is lending increasing or decreasing over time?
+Do longer-term loans have a higher charge-off rate?
+Which states contribute the most to the loan portfolio?
+How do home ownership and borrower financial profiles relate to charge-offs?
+Are there missing or duplicate records that could affect reporting?
+Check for duplicate loan IDs
+Which loan grades contribute the most to charge-offs?
